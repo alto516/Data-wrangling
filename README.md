@@ -1,2 +1,1 @@
-# Data-wrangling
-Gather/Assess/Clean
+﻿﻿﻿﻿# Data-wranglingGather/Assess/CleanMore InformationMashery: API Data Exchange: XML vs. JSON: https://www.tibco.com/blog/2014/01/23/api-data-exchange-xml-vs-json/https://www.mediawiki.org/wiki/API:Main_pagehttps://www.mediawiki.org/wiki/API:Client_code#Pythonhttps://github.com/siznax/wptools
